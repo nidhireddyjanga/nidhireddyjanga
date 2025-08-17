@@ -47,11 +47,11 @@ I’m passionate about creating intuitive, user-centered digital experiences and
 
 <h3 align="left">📂 Projects:</h3>
 
-- 🔹 <b>Flowguard</b> – IoT-Based Water Management System  
+- <b>Flowguard</b> – IoT-Based Water Management System  
   💧 Real-time water level monitoring system using NodeMCU and Blynk app  
   <i>Tools/Tech:</i> C++, Arduino IDE, IoT Hardware  
 
-- 🔹 <b>Video Transcript Summarizer</b>  
+- <b>Video Transcript Summarizer</b>  
   🎥 Chrome extension to extract YouTube transcripts and generate concise summaries using NLP  
   <i>Tools/Tech:</i> Python, HTML, OpenAI API  
 
@@ -78,7 +78,6 @@ I’m passionate about creating intuitive, user-centered digital experiences and
   </a>
 </p>
 
-
 ---
 
-⭐️ <i>Thanks for visiting my profile! I’m always open to collaboration, learning, and creating impactful projects.</i>  
+<i>Thanks for visiting my profile! I’m always open to collaboration, learning, and creating impactful projects.</i>  
