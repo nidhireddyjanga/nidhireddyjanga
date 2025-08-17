@@ -35,8 +35,6 @@ I’m passionate about creating intuitive, user-centered digital experiences and
 **UI/UX & Design:**  
 <p align="left">
 <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/></a>&nbsp;&nbsp;
-<a href="https://www.sketch.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch" width="45" height="45"/></a>
-</p>
 
 **Data Science Tools:**  
 <p align="left">
